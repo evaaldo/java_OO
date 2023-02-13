@@ -1,0 +1,19 @@
+package sintaxe__variaveisFluxo;
+
+public class TestaConversao {
+	
+	public static void main(String[] args) {
+		
+//		int maximoInt = 2000000;
+//		long maximoLong = 999999999;
+//		short maximoShort = 9999;
+//		byte maximoByte = 127;
+		
+		double salario = 780;
+		int valor = (int) salario;
+		
+		System.out.println(valor);
+		
+	}
+	
+}

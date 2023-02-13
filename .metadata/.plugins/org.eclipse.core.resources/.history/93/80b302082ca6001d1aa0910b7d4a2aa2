@@ -1,0 +1,19 @@
+package sintaxe__variaveisFluxo;
+
+public class TestaCondicional {
+
+	public static void main(String[] args) {
+		
+		System.out.println("Testando condicionais.");
+		int idade = 0;
+		if(idade > 0) {
+			if(idade >= 18) {
+				System.out.println("A pessoa eh maior de idade.");
+			} else {
+				System.out.println("A pessoa eh menor de idade.");
+			}
+		}
+		
+	}
+	
+}

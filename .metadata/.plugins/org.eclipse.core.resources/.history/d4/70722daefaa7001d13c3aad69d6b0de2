@@ -1,0 +1,9 @@
+package bytebank_composto;
+
+public class cliente {
+
+	String nome;
+	String cpf;
+	String profissao;
+	
+}

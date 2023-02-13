@@ -1,0 +1,13 @@
+package sintaxe__variaveisFluxo;
+
+public class TestaVariaveis {
+
+	public static void main(String[] args) {
+		
+		float idade = 37;
+		
+		System.out.println("Sua idade eh: " + idade);
+		
+	}
+	
+}

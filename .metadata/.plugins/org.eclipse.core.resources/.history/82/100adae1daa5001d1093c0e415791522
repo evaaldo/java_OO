@@ -1,0 +1,14 @@
+package sintaxe__variaveisFluxo;
+
+public class TestaPontoFlutante {
+
+	public static void main(String[] args) {
+		
+		double salario;
+		salario = 780;
+		
+		System.out.println("Meu salario equivale a " + salario);
+		
+	}
+	
+}

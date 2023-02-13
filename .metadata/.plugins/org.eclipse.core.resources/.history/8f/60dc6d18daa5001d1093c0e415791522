@@ -1,0 +1,14 @@
+package sintaxe__variaveisFluxo;
+
+public class TestaPontoFlutante {
+
+	public static void main(String[] args) {
+		
+		float valor;
+		valor = 2;
+		
+		System.out.println(valor);
+		
+	}
+	
+}

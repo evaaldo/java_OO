@@ -1,0 +1,14 @@
+package sintaxe__variaveisFluxo;
+
+public class TestaConversao {
+	
+	public static void main(String[] args) {
+		
+		int salario = 780;
+		double valor = (double) salario;
+		
+		System.out.println(valor);
+		
+	}
+	
+}

@@ -5,14 +5,6 @@ public class Conta {
 	private int agencia;
 	private int numero;
 	private Cliente titular;
-	private static int total;
-	
-	public Conta(int numero, int agencia) {
-		Conta.total++;
-		System.out.println("Número da agencia: " + total);
-		this.numero = numero;
-		this.agencia = agencia;
-	}
 	
 	public void deposita(double valor) {
 		this.saldo += valor;
